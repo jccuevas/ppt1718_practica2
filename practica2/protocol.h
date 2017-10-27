@@ -17,8 +17,8 @@
 #define CRLF "\r\n"
 
 //ESTADOS
-#define S_HELO 0
-#define S_USER 1
+#define S_WELC 0
+#define S_HELO 1
 #define S_PASS 2
 #define S_DATA 3
 #define S_QUIT 4

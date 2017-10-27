@@ -110,10 +110,10 @@ int main(int *argc, char *argv[])
 				//Inicio de la máquina de estados
 				do{
 					switch(estado){
-					case S_HELO:
+					case S_WELC:
 						// Se recibe el mensaje de bienvenida
 						break;
-					case S_USER:
+					case S_HELO:
 						// establece la conexion de aplicacion 
 						printf("CLIENTE> Introduzca el usuario (enter para salir): ");
 						gets_s(input,sizeof(input));
