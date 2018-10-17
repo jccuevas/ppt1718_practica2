@@ -38,3 +38,4 @@
 #define ECHO "ECHO"
 
 #define GIT "Cambio local"
+#define TEMPORAL "temporal"
