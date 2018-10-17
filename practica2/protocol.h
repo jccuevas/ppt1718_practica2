@@ -36,3 +36,5 @@
 #define SD "SD"
 #define PW "PW"
 #define ECHO "ECHO"
+
+#define GIT "Cambio local"
