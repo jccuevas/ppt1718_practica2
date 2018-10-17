@@ -32,3 +32,7 @@
 #define PASSWORD	"123456"
 
 #define mod "mod"
+#define SC "SC"
+#define SD "SD"
+#define PW "PW"
+#define ECHO "ECHO"
